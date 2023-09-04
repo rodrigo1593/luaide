@@ -1,4 +1,4 @@
-# luaide 
+# luaide (private rn)
 
 attempt to make an environment i little easier to make games for ps2 using enceladus.
 
