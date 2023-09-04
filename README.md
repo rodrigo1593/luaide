@@ -10,3 +10,5 @@ attempt to make an environment a little easier to make games for ps2 using encel
 
 ----------------------------------TODO------------------------------------------------
 * sprite specific menu is bugged somehow idk the reason rn but it displays the wrong image/the first image created.
+* somehow force the sprite function to be used as drawable instead of being used as reference for the ide to place the object inside the rooms.
+* convert objects into two types: preparable & loopable. (shit names xd)
