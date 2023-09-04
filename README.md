@@ -1,6 +1,6 @@
 # luaide (private rn)
 
-attempt to make an environment i little easier to make games for ps2 using enceladus.
+attempt to make an environment a little easier to make games for ps2 using enceladus.
 
 ----------------------fixes--since---03-sep-2023---------private----------------------
 
