@@ -17,3 +17,4 @@ attempt to make an environment a little easier to make games for ps2 using encel
 * remove image name+extension requirement.
 * continue music editor menu (more things)
 * add mus files to detectext() function
+* script, function will now open a big but simple text editor to allow writing scripts more than one line lmao.
