@@ -20,8 +20,11 @@ attempt to make an environment a little easier to make games for ps2 using encel
 ///////////////////////////-------------TODO--------/////////////////////////////////////////
 * somehow force the sprite function to be used as drawable instead of being used as reference for the ide to place the object inside the rooms.
   ->problem 1: less control on what should be drawn or not.
+  ->problem 2:  funny and safe tho.
   
-* convert objects into two types: preparable & loopable. (shit names xd)
+  
+* convert objects into two types: preparable & loopable. (shit names xd) -> problem 1: less control on when should you use while loops.
+
 * continue music editor menu (more things)
 * add mus files to detectext() function
 * script, function will now open a big but simple text editor to allow writing scripts more than one line lmao.
