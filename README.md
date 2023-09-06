@@ -18,6 +18,8 @@ attempt to make an environment a little easier to make games for ps2 using encel
 * sprite specific menu is bugged somehow idk the reason rn but it displays the wrong image/the first image created (xoffset yoffset menu) solution: delete sprclone sprite if exists.
 ----------------------fixes--since---06-sep-2023---pm-----private----------------------
 * add mus files to detectext() function
+
+
 ///////////////////////////-------------TODO--------/////////////////////////////////////////
 * somehow force the sprite function to be used as drawable instead of being used as reference for the ide to place the object inside the rooms.
   ->problem 1: less control on what should be drawn or not.
