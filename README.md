@@ -23,6 +23,7 @@ attempt to make an environment a little easier to make games for ps2 using encel
 
 ----------------------fixes--since---07-sep-2023---am-----private----------------------
 * continue music editor menu (more things). (just an audio preview (listening), simple as that lmao)
+* output the get left stick & get right stick functions correctly
 
 
 ///////////////////////////-------------TODO--------/////////////////////////////////////////
@@ -32,4 +33,7 @@ attempt to make an environment a little easier to make games for ps2 using encel
   
 * convert objects into two types: preparable & loopable. (shit names xd) -> problem 1: less control on when should you use while loops.
 * script, function will now open a big but simple text editor to allow writing scripts more than one line lmao.
-* output the get left stick & get right stick functions correctly
+
+* play audio function.
+* now i hope you can prepare adp's long array in order to play audios.
+* dinamically change and watch changes made with the sprite in sprite editor instead of loading the same sprite default properties every menu.
