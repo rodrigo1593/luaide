@@ -28,3 +28,4 @@ attempt to make an environment a little easier to make games for ps2 using encel
   
 * convert objects into two types: preparable & loopable. (shit names xd) -> problem 1: less control on when should you use while loops.
 * script, function will now open a big but simple text editor to allow writing scripts more than one line lmao.
+* output the get left stick & get right stick functions correctly
