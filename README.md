@@ -37,3 +37,5 @@ attempt to make an environment a little easier to make games for ps2 using encel
 * play audio function.
 * now i hope you can prepare adp's long array in order to play audios.
 * dinamically change and watch changes made with the sprite in sprite editor instead of loading the same sprite default properties every menu.
+
+* rewrite rooms menu+room editor
